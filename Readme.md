@@ -14,7 +14,7 @@ The medicines for common disease like fever are suggested
 Created the dataset of tablets and its usecases,collected the data from the expert in medical field
 
 **Trained Model**
-Trained the logisytic regression model with accuracy
+Trained the logistic regression model with accuracy
 
 **Javascript functionality**
 We have added the javascript functionalities for using the search and other functionalities
